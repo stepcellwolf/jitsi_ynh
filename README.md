@@ -19,7 +19,11 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 Jitsi Meet is a libre software (Apache) WebRTC JavaScript app that uses Jitsi Videobridge to provide high quality, secure, and scalable video conferences.
 
 
+<<<<<<< HEAD
 **Shipped version:** 2.0.9111~ynh1
+=======
+**Shipped version:** 2.0.8719~ynh3
+>>>>>>> parent of 66d7504 (Auto-update README)
 
 **Demo:** https://meet.jit.si/
 
