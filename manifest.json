@@ -6,7 +6,11 @@
         "en": "Video conferencing web application",
         "fr": "Application web de conférence vidéo"
     },
+<<<<<<< HEAD
     "version": "2.0.9111~ynh1",
+=======
+    "version": "2.0.8922~ynh1",
+>>>>>>> parent of 8bccf11 (Upgrade to v2.0.9078)
     "url": "https://jitsi.org/Projects/JitMeet",
     "upstream": {
         "license": "Apache-2.0",

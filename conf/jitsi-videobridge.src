@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 SOURCE_URL=https://download.jitsi.org/stable/jitsi-videobridge2_2.3-61-g814bffd6-1_all.deb
 SOURCE_SUM=133603eb1e024aff252516c1091ec8adf87ca1a3a5f2ac3ebf0e9845f061ea79
+=======
+SOURCE_URL=https://download.jitsi.org/stable/jitsi-videobridge2_2.3-41-ga8d8a786-1_all.deb
+SOURCE_SUM=cd0fe7401830acbb2f31ba00687b8a91174b9a4aa3ac84f66427c6009c415450
+>>>>>>> parent of 8bccf11 (Upgrade to v2.0.9078)
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=true

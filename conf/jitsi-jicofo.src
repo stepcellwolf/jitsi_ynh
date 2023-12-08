@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 SOURCE_URL=https://download.jitsi.org/stable/jicofo_1.0-1057-1_all.deb
 SOURCE_SUM=4dd2cfa708142ee6f3ab2843f0f66150c246f806673d3f318234b79949d3a04a
+=======
+SOURCE_URL=https://download.jitsi.org/stable/jicofo_1.0-1048-1_all.deb
+SOURCE_SUM=76a8e63866541ac7689b0619aac8859022d0e5514d3fa7330ecbaffcc45226c3
+>>>>>>> parent of 8bccf11 (Upgrade to v2.0.9078)
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=true

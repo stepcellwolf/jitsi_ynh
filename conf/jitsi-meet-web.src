@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 SOURCE_URL=https://download.jitsi.org/stable/jitsi-meet-web_1.0.7658-1_all.deb
 SOURCE_SUM=989426c2d96423639c5d780ac69c158b805b674bc266dbc9c2f07b932079b43d
+=======
+SOURCE_URL=https://download.jitsi.org/stable/jitsi-meet-web_1.0.7499-1_all.deb
+SOURCE_SUM=b091603ecf638df299fb9ce8432fceac102e58b4621d7380907c4fc1d33735bd
+>>>>>>> parent of 8bccf11 (Upgrade to v2.0.9078)
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=true
